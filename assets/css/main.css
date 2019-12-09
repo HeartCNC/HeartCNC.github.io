@@ -1,0 +1,29 @@
+.sidebar{
+    width: 280px;
+}
+.sidebar-nav > ul > li > a{
+    position: relative;
+    color: #42b983;
+}
+.sidebar-nav > ul > li.active > a{
+    font-weight: normal;
+    border: none;
+}
+.sidebar-nav > ul > li > a:after{
+    position: absolute;
+    right: 4px;
+    top: 50%;
+    margin-top: -6px;
+    display: block;
+    content: '';
+    border-width: 6px;
+    border-style: solid;
+    border-color: transparent transparent transparent #42b983;
+    transition: all 0.2s;
+}
+.sidebar-nav > ul > li.active > a:after{
+    transform: rotate(90deg);
+}
+.sidebar-nav > ul li a:hover{
+    text-decoration: none;
+}
