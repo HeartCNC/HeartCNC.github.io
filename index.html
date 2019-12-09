@@ -9,7 +9,6 @@
   <link href="https://cdn.bootcss.com/meyer-reset/2.0/reset.min.css" rel="stylesheet">
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
   <link rel="stylesheet" href="./assets/css/main.css?v=20191209">
-  <script src="https://cdn.bootcss.com/jquery/3.1.1/jquery.min.js"></script>
 </head>
 <body>
   <div id="app"></div>
@@ -18,15 +17,15 @@
       loadSidebar: true,
       // loadNavbar: true,
       subMaxLevel: 2,//只能显示一、二级标题
-      search : [
-        '/',            // => /README.md
-        '/guide',       // => /guide.md
-        '/get-started', // => /get-started.md
-        '/zh-cn/',      // => /zh-cn/README.md
-      ],
+      // search : [
+      //   '/',            // => /README.md
+      //   '/_sidebar',       // => /guide.md
+      //   '/frondEnd/_sidebar', // => /get-started.md
+      //   '/zh-cn/',      // => /zh-cn/README.md
+      // ],
       search: {
         maxAge: 86400000, // Expiration time, the default one day
-        paths: [], // or 'auto'
+        paths: 'auto', // or 'auto'
         placeholder: {
           '/zh-cn/': '搜索...',
           '/': '搜索...'
@@ -41,8 +40,5 @@
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
-  <script type="text/javascript">
-    document.write(`<script src=\'.\/assets\/scripts\/main.js?v=20191209\' async defer><\/script>`)
-  </script>
 </body>
 </html>
