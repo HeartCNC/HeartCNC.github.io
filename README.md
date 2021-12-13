@@ -1,14 +1,28 @@
-# blog.evolong.top
+```mermaid
+graph LR
+A[方形] --> B(圆角)
+B --> C{条件a}
+C --> |a=1| D[结果1]
+C --> |a=2| D[结果2]
+F[横向流程图]
+```
 
-> 联系方式
+```js
+var num = 0;
+mermaid.initialize({ startOnLoad: false });
 
-<i class="fa fa-qq"></i> `1195638709`
-
-<i class="fa fa-send"></i> `1195638709@qq.com`
-
-<i class="fa fa-github" style="font-size:18px;"></i> `https://github.com/HeartCNC`
-
-> 版权所有
-
-`Copyright © 2019 All Rights Reserved 版权所有 / 湘ICP备19012239号`
-
+window.$docsify = {
+  markdown: {
+    renderer: {
+      code: function(code, lang) {
+        if (lang === "mermaid") {
+          return (
+            '<div class="mermaid">' + mermaid.render('mermaid-svg-' + num++, code) + "</div>"
+          );
+        }
+        return this.origin.code.apply(this, arguments);
+      }
+    }
+  }
+}
+```

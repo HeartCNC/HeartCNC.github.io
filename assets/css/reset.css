@@ -1,0 +1,69 @@
+:root {
+  --theme-color: #03a9f4;
+}
+
+body.close .sidebar-toggle {
+  transform: translateX(0);
+}
+
+.sidebar-toggle {
+  display: none;
+  top: 3rem;
+  bottom: unset;
+  left: 0;
+  transform: translateX(16rem);
+  width: auto;
+  background-color: #f5f5f5;
+  transition: transform .25s ease-out;
+}
+.sidebar-toggle span {
+  background-color: #999;
+}
+
+.search input {
+  border: 1px solid rgba(0,0,0,.07);
+}
+.search input:focus {
+  box-shadow: unset !important;
+}
+
+.sidebar {
+  background-color: #f8f8f8;
+}
+
+.sidebar li.active {
+  background-color: unset;
+}
+.sidebar li.active a {
+  color: var(--theme-color);
+}
+.sidebar .sidebar-nav>ul>li>a {
+  font-weight: bold;
+}
+.sidebar ul li.active>a {
+  border: none;
+}
+.sidebar ul li a:hover {
+  text-decoration: none;
+}
+
+.content {
+  padding-top: 0;
+}
+
+@font-face {
+  font-family: 'Hack';
+  src: url('../font/Hack-Regular.ttf');
+}
+.markdown-section pre>code {
+  line-height: 1.3rem;
+  font-family: 'Hack';
+  font-size: 13px;
+}
+
+.mermaid {
+  text-align: center;
+}
+.mermaid svg {
+  user-select: none;
+}
