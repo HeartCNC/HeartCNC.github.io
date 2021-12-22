@@ -1,0 +1,10 @@
+.mobile-simulator {
+  margin: 0 !important;
+  position: fixed;
+  top: 50%;
+  right: 0;
+  transform: translateY(-50%) scale(0.8);
+  width: 375px !important;
+  height: 667px !important;
+  min-width: auto !important;
+}
