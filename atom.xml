@@ -2,11 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://heartcnc.github.io/</id>
     <title>Any Note Blog</title>
-    <updated>2022-06-24T00:00:00.000Z</updated>
+    <updated>2022-06-28T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://heartcnc.github.io/"/>
     <subtitle>Any Note Blog</subtitle>
     <icon>https://heartcnc.github.io/img/logo.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Webpack chain 用法]]></title>
+        <id>/2022/06/28/5b95aaa0-522f-4265-9deb-56dcacb5d378</id>
+        <link href="https://heartcnc.github.io/2022/06/28/5b95aaa0-522f-4265-9deb-56dcacb5d378"/>
+        <updated>2022-06-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[官方：https://github.com/neutrinojs/webpack-chain]]></summary>
+        <category label="webpack" term="webpack"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[webpack打包优化，js分包，css分包]]></title>
+        <id>/2022/06/28/8d217a0c-957f-4aad-bbd8-69171c33261a</id>
+        <link href="https://heartcnc.github.io/2022/06/28/8d217a0c-957f-4aad-bbd8-69171c33261a"/>
+        <updated>2022-06-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[需求：降低打包后最大文件的体积]]></summary>
+        <category label="webpack" term="webpack"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UI框架整理]]></title>
         <id>/2022/06/24/5bac9503-08f9-4c29-af48-ff5a57f96a84</id>

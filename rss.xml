@@ -4,10 +4,26 @@
         <title>Any Note Blog</title>
         <link>https://heartcnc.github.io/</link>
         <description>Any Note Blog</description>
-        <lastBuildDate>Fri, 24 Jun 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-cn</language>
+        <item>
+            <title><![CDATA[Webpack chain 用法]]></title>
+            <link>https://heartcnc.github.io/2022/06/28/5b95aaa0-522f-4265-9deb-56dcacb5d378</link>
+            <guid>/2022/06/28/5b95aaa0-522f-4265-9deb-56dcacb5d378</guid>
+            <pubDate>Tue, 28 Jun 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[官方：https://github.com/neutrinojs/webpack-chain]]></description>
+            <category>webpack</category>
+        </item>
+        <item>
+            <title><![CDATA[webpack打包优化，js分包，css分包]]></title>
+            <link>https://heartcnc.github.io/2022/06/28/8d217a0c-957f-4aad-bbd8-69171c33261a</link>
+            <guid>/2022/06/28/8d217a0c-957f-4aad-bbd8-69171c33261a</guid>
+            <pubDate>Tue, 28 Jun 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[需求：降低打包后最大文件的体积]]></description>
+            <category>webpack</category>
+        </item>
         <item>
             <title><![CDATA[UI框架整理]]></title>
             <link>https://heartcnc.github.io/2022/06/24/5bac9503-08f9-4c29-af48-ff5a57f96a84</link>
