@@ -2,25 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://heartcnc.github.io/</id>
     <title>Any Note Blog</title>
-    <updated>2022-06-28T00:00:00.000Z</updated>
+    <updated>2022-07-22T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://heartcnc.github.io/"/>
     <subtitle>Any Note Blog</subtitle>
     <icon>https://heartcnc.github.io/img/logo.png</icon>
     <entry>
-        <title type="html"><![CDATA[Webpack chain 用法]]></title>
-        <id>/2022/06/28/5b95aaa0-522f-4265-9deb-56dcacb5d378</id>
-        <link href="https://heartcnc.github.io/2022/06/28/5b95aaa0-522f-4265-9deb-56dcacb5d378"/>
-        <updated>2022-06-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[官方：https://github.com/neutrinojs/webpack-chain]]></summary>
-        <category label="webpack" term="webpack"/>
+        <title type="html"><![CDATA[pixi.js v5 动画 IOS异常]]></title>
+        <id>/2022/07/22/22619a42-bf89-4033-8c0a-ec218d81710a</id>
+        <link href="https://heartcnc.github.io/2022/07/22/22619a42-bf89-4033-8c0a-ec218d81710a"/>
+        <updated>2022-07-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[description]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022年7月手机购买指南]]></title>
+        <id>/2022/07/19/buy-phone</id>
+        <link href="https://heartcnc.github.io/2022/07/19/buy-phone"/>
+        <updated>2022-07-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[description]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[H5适配iphoneX底部黑条]]></title>
+        <id>/2022/07/13/h5-iphonex</id>
+        <link href="https://heartcnc.github.io/2022/07/13/h5-iphonex"/>
+        <updated>2022-07-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[description]]></summary>
+        <category label="h5" term="h5"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿拉伯数字计数转中文汉字]]></title>
+        <id>/2022/07/08/42d81405-4c7b-4f93-87c2-61716da62dd0</id>
+        <link href="https://heartcnc.github.io/2022/07/08/42d81405-4c7b-4f93-87c2-61716da62dd0"/>
+        <updated>2022-07-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[中文数位有：个，十，百，千，万，十万，百万，千万，亿，十亿，百亿，千亿，万亿，十万亿，百万亿，千万亿，亿亿……]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[各类营养餐]]></title>
+        <id>/2022/07/07/366fbe67-a039-4a86-90de-53a19b986703</id>
+        <link href="https://heartcnc.github.io/2022/07/07/366fbe67-a039-4a86-90de-53a19b986703"/>
+        <updated>2022-07-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[description]]></summary>
+        <category label="养生" term="养生"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vue 运行报错 Cannot call .tap() on a plugin that has not yet been defined. Call plugin('preload').use(<Plugin>) first.]]></title>
+        <id>/2022/07/06/bug-vue-cli</id>
+        <link href="https://heartcnc.github.io/2022/07/06/bug-vue-cli"/>
+        <updated>2022-07-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Vue Cli 配置多入口报错解决办法]]></summary>
+        <category label="vue-cli" term="vue-cli"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[webpack打包优化，js分包，css分包]]></title>
-        <id>/2022/06/28/8d217a0c-957f-4aad-bbd8-69171c33261a</id>
-        <link href="https://heartcnc.github.io/2022/06/28/8d217a0c-957f-4aad-bbd8-69171c33261a"/>
+        <id>/2022/06/28/webpack-build-better</id>
+        <link href="https://heartcnc.github.io/2022/06/28/webpack-build-better"/>
         <updated>2022-06-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[需求：降低打包后最大文件的体积]]></summary>
+        <category label="webpack" term="webpack"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Webpack chain 用法]]></title>
+        <id>/2022/06/28/webpack-chain-usage</id>
+        <link href="https://heartcnc.github.io/2022/06/28/webpack-chain-usage"/>
+        <updated>2022-06-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[官方：https://github.com/neutrinojs/webpack-chain]]></summary>
         <category label="webpack" term="webpack"/>
     </entry>
     <entry>
@@ -59,37 +104,13 @@
         <summary type="html"><![CDATA[30secondsofcode 代码片段精选]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[从0到1，基于tinypng压缩图片的CLI工具]]></title>
-        <id>/2022/06/23/2ed2cfb4-b450-4894-8a00-43d36349b032</id>
-        <link href="https://heartcnc.github.io/2022/06/23/2ed2cfb4-b450-4894-8a00-43d36349b032"/>
-        <updated>2022-06-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[制作一个压缩图片的CLI工具！]]></summary>
-        <category label="cli" term="cli"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端开发写的设计指南]]></title>
-        <id>/2022/06/23/2f216cf3-c4a5-443c-8bb5-be62005c648c</id>
-        <link href="https://heartcnc.github.io/2022/06/23/2f216cf3-c4a5-443c-8bb5-be62005c648c"/>
-        <updated>2022-06-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[设计师做出来的东西都要给到开发去实现，但是切图和设计最后可能不是开发能实现的，所以这里记录了设计和开发在PC和H5两端主要需要注意的地方。]]></summary>
-        <category label="UI" term="UI"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vscode 常用快捷键速览]]></title>
-        <id>/2022/06/23/5da70c6d-9ddc-46b7-86fe-2f0169bcbba5</id>
-        <link href="https://heartcnc.github.io/2022/06/23/5da70c6d-9ddc-46b7-86fe-2f0169bcbba5"/>
-        <updated>2022-06-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[代码操作]]></summary>
-        <category label="vscode" term="vscode"/>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[URL链接获取search参数是undefined？hash丢失了？记一下一些坑]]></title>
-        <id>/2022/06/23/825a8c2d-8504-483f-9ce1-5a520945dbed</id>
-        <link href="https://heartcnc.github.io/2022/06/23/825a8c2d-8504-483f-9ce1-5a520945dbed"/>
+        <id>/2022/06/23/bug-url</id>
+        <link href="https://heartcnc.github.io/2022/06/23/bug-url"/>
         <updated>2022-06-23T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[URL链接取参数问题，search和hash隐藏的坑]]></summary>
-        <category label="URL" term="URL"/>
-        <category label="BUG" term="BUG"/>
+        <category label="url" term="url"/>
+        <category label="bug" term="bug"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[TypeScript声明根据不同的参数，列出不同的可选列表]]></title>
@@ -98,5 +119,29 @@
         <updated>2022-06-23T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[TypeScript声明根据不同的参数，列出不同的可选列表]]></summary>
         <category label="typescript" term="typescript"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前端开发写的设计指南]]></title>
+        <id>/2022/06/23/how-to-design</id>
+        <link href="https://heartcnc.github.io/2022/06/23/how-to-design"/>
+        <updated>2022-06-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[设计师做出来的东西都要给到开发去实现，但是切图和设计最后可能不是开发能实现的，所以这里记录了设计和开发在PC和H5两端主要需要注意的地方。]]></summary>
+        <category label="ui" term="ui"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从0到1，基于tinypng压缩图片的CLI工具]]></title>
+        <id>/2022/06/23/make-a-cli</id>
+        <link href="https://heartcnc.github.io/2022/06/23/make-a-cli"/>
+        <updated>2022-06-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[制作一个压缩图片的CLI工具！]]></summary>
+        <category label="cli" term="cli"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vscode 常用快捷键速览]]></title>
+        <id>/2022/06/23/vscode-shortcut-key</id>
+        <link href="https://heartcnc.github.io/2022/06/23/vscode-shortcut-key"/>
+        <updated>2022-06-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[代码操作]]></summary>
+        <category label="vscode" term="vscode"/>
     </entry>
 </feed>
