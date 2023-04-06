@@ -11,21 +11,21 @@
         <item>
             <title><![CDATA[pixi.js v5 动画 IOS异常]]></title>
             <link>https://heartcnc.github.io/2022/07/22/22619a42-bf89-4033-8c0a-ec218d81710a</link>
-            <guid>/2022/07/22/22619a42-bf89-4033-8c0a-ec218d81710a</guid>
+            <guid>https://heartcnc.github.io/2022/07/22/22619a42-bf89-4033-8c0a-ec218d81710a</guid>
             <pubDate>Fri, 22 Jul 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[description]]></description>
         </item>
         <item>
             <title><![CDATA[2022年7月手机购买指南]]></title>
             <link>https://heartcnc.github.io/2022/07/19/buy-phone</link>
-            <guid>/2022/07/19/buy-phone</guid>
+            <guid>https://heartcnc.github.io/2022/07/19/buy-phone</guid>
             <pubDate>Tue, 19 Jul 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[description]]></description>
         </item>
         <item>
             <title><![CDATA[H5适配iphoneX底部黑条]]></title>
             <link>https://heartcnc.github.io/2022/07/13/h5-iphonex</link>
-            <guid>/2022/07/13/h5-iphonex</guid>
+            <guid>https://heartcnc.github.io/2022/07/13/h5-iphonex</guid>
             <pubDate>Wed, 13 Jul 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[description]]></description>
             <category>h5</category>
@@ -33,14 +33,14 @@
         <item>
             <title><![CDATA[阿拉伯数字计数转中文汉字]]></title>
             <link>https://heartcnc.github.io/2022/07/08/42d81405-4c7b-4f93-87c2-61716da62dd0</link>
-            <guid>/2022/07/08/42d81405-4c7b-4f93-87c2-61716da62dd0</guid>
+            <guid>https://heartcnc.github.io/2022/07/08/42d81405-4c7b-4f93-87c2-61716da62dd0</guid>
             <pubDate>Fri, 08 Jul 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[中文数位有：个，十，百，千，万，十万，百万，千万，亿，十亿，百亿，千亿，万亿，十万亿，百万亿，千万亿，亿亿……]]></description>
         </item>
         <item>
             <title><![CDATA[各类营养餐]]></title>
             <link>https://heartcnc.github.io/2022/07/07/366fbe67-a039-4a86-90de-53a19b986703</link>
-            <guid>/2022/07/07/366fbe67-a039-4a86-90de-53a19b986703</guid>
+            <guid>https://heartcnc.github.io/2022/07/07/366fbe67-a039-4a86-90de-53a19b986703</guid>
             <pubDate>Thu, 07 Jul 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[description]]></description>
             <category>养生</category>
@@ -48,7 +48,7 @@
         <item>
             <title><![CDATA[vue 运行报错 Cannot call .tap() on a plugin that has not yet been defined. Call plugin('preload').use(<Plugin>) first.]]></title>
             <link>https://heartcnc.github.io/2022/07/06/bug-vue-cli</link>
-            <guid>/2022/07/06/bug-vue-cli</guid>
+            <guid>https://heartcnc.github.io/2022/07/06/bug-vue-cli</guid>
             <pubDate>Wed, 06 Jul 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Vue Cli 配置多入口报错解决办法]]></description>
             <category>vue-cli</category>
@@ -56,7 +56,7 @@
         <item>
             <title><![CDATA[webpack打包优化，js分包，css分包]]></title>
             <link>https://heartcnc.github.io/2022/06/28/webpack-build-better</link>
-            <guid>/2022/06/28/webpack-build-better</guid>
+            <guid>https://heartcnc.github.io/2022/06/28/webpack-build-better</guid>
             <pubDate>Tue, 28 Jun 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[需求：降低打包后最大文件的体积]]></description>
             <category>webpack</category>
@@ -64,7 +64,7 @@
         <item>
             <title><![CDATA[Webpack chain 用法]]></title>
             <link>https://heartcnc.github.io/2022/06/28/webpack-chain-usage</link>
-            <guid>/2022/06/28/webpack-chain-usage</guid>
+            <guid>https://heartcnc.github.io/2022/06/28/webpack-chain-usage</guid>
             <pubDate>Tue, 28 Jun 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[官方：https://github.com/neutrinojs/webpack-chain]]></description>
             <category>webpack</category>
@@ -72,42 +72,42 @@
         <item>
             <title><![CDATA[UI框架整理]]></title>
             <link>https://heartcnc.github.io/2022/06/24/5bac9503-08f9-4c29-af48-ff5a57f96a84</link>
-            <guid>/2022/06/24/5bac9503-08f9-4c29-af48-ff5a57f96a84</guid>
+            <guid>https://heartcnc.github.io/2022/06/24/5bac9503-08f9-4c29-af48-ff5a57f96a84</guid>
             <pubDate>Fri, 24 Jun 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[常用UI框架整理，包含移动端、PC端管理后台、微信小程序端、图标等等]]></description>
         </item>
         <item>
             <title><![CDATA[前端团队技术博客]]></title>
             <link>https://heartcnc.github.io/2022/06/24/6ff0b14b-7502-418b-b03f-99a6fd08f531</link>
-            <guid>/2022/06/24/6ff0b14b-7502-418b-b03f-99a6fd08f531</guid>
+            <guid>https://heartcnc.github.io/2022/06/24/6ff0b14b-7502-418b-b03f-99a6fd08f531</guid>
             <pubDate>Fri, 24 Jun 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[AOTU实验室 - 京东]]></description>
         </item>
         <item>
             <title><![CDATA[H5小游戏资源整合]]></title>
             <link>https://heartcnc.github.io/2022/06/24/9feeb633-a7e9-49a9-87d7-e7b7297dd3c9</link>
-            <guid>/2022/06/24/9feeb633-a7e9-49a9-87d7-e7b7297dd3c9</guid>
+            <guid>https://heartcnc.github.io/2022/06/24/9feeb633-a7e9-49a9-87d7-e7b7297dd3c9</guid>
             <pubDate>Fri, 24 Jun 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[包含一些工具、论坛、在线游戏网站等等]]></description>
         </item>
         <item>
             <title><![CDATA[聚合一些JS库]]></title>
             <link>https://heartcnc.github.io/2022/06/24/c6ed160f-b046-4387-8c07-60379da80c43</link>
-            <guid>/2022/06/24/c6ed160f-b046-4387-8c07-60379da80c43</guid>
+            <guid>https://heartcnc.github.io/2022/06/24/c6ed160f-b046-4387-8c07-60379da80c43</guid>
             <pubDate>Fri, 24 Jun 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[包含框架、游戏引擎、插件]]></description>
         </item>
         <item>
             <title><![CDATA[站点导航-工具]]></title>
             <link>https://heartcnc.github.io/2022/06/24/ebbb24c8-f67f-43f8-9174-7a8b513db6ba</link>
-            <guid>/2022/06/24/ebbb24c8-f67f-43f8-9174-7a8b513db6ba</guid>
+            <guid>https://heartcnc.github.io/2022/06/24/ebbb24c8-f67f-43f8-9174-7a8b513db6ba</guid>
             <pubDate>Fri, 24 Jun 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[30secondsofcode 代码片段精选]]></description>
         </item>
         <item>
             <title><![CDATA[URL链接获取search参数是undefined？hash丢失了？记一下一些坑]]></title>
             <link>https://heartcnc.github.io/2022/06/23/bug-url</link>
-            <guid>/2022/06/23/bug-url</guid>
+            <guid>https://heartcnc.github.io/2022/06/23/bug-url</guid>
             <pubDate>Thu, 23 Jun 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[URL链接取参数问题，search和hash隐藏的坑]]></description>
             <category>url</category>
@@ -116,7 +116,7 @@
         <item>
             <title><![CDATA[TypeScript声明根据不同的参数，列出不同的可选列表]]></title>
             <link>https://heartcnc.github.io/2022/06/23/c7db1c44-f8fc-4ad6-b6b6-71bf22e3acc8</link>
-            <guid>/2022/06/23/c7db1c44-f8fc-4ad6-b6b6-71bf22e3acc8</guid>
+            <guid>https://heartcnc.github.io/2022/06/23/c7db1c44-f8fc-4ad6-b6b6-71bf22e3acc8</guid>
             <pubDate>Thu, 23 Jun 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[TypeScript声明根据不同的参数，列出不同的可选列表]]></description>
             <category>typescript</category>
@@ -124,7 +124,7 @@
         <item>
             <title><![CDATA[前端开发写的设计指南]]></title>
             <link>https://heartcnc.github.io/2022/06/23/how-to-design</link>
-            <guid>/2022/06/23/how-to-design</guid>
+            <guid>https://heartcnc.github.io/2022/06/23/how-to-design</guid>
             <pubDate>Thu, 23 Jun 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[设计师做出来的东西都要给到开发去实现，但是切图和设计最后可能不是开发能实现的，所以这里记录了设计和开发在PC和H5两端主要需要注意的地方。]]></description>
             <category>ui</category>
@@ -132,7 +132,7 @@
         <item>
             <title><![CDATA[从0到1，基于tinypng压缩图片的CLI工具]]></title>
             <link>https://heartcnc.github.io/2022/06/23/make-a-cli</link>
-            <guid>/2022/06/23/make-a-cli</guid>
+            <guid>https://heartcnc.github.io/2022/06/23/make-a-cli</guid>
             <pubDate>Thu, 23 Jun 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[制作一个压缩图片的CLI工具！]]></description>
             <category>cli</category>
@@ -140,7 +140,7 @@
         <item>
             <title><![CDATA[vscode 常用快捷键速览]]></title>
             <link>https://heartcnc.github.io/2022/06/23/vscode-shortcut-key</link>
-            <guid>/2022/06/23/vscode-shortcut-key</guid>
+            <guid>https://heartcnc.github.io/2022/06/23/vscode-shortcut-key</guid>
             <pubDate>Thu, 23 Jun 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[代码操作]]></description>
             <category>vscode</category>
